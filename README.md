@@ -1,0 +1,12 @@
+# fajar-pbo game"menangkap telur"
+-Baris 1-3 from import(digunakan untuk mengimport tools)
+-Baris 5-6 canvas(digunakan untuk mengatur lebar layar tampilan dari game)
+-Baris 8-13(digunakan untuk memberi nama game, dan memberi tampilan pada background)
+-Baris 15-28(memberi warna, bentuk, dan mengatur kecepatan, jumlah score, tingkat kesulitan, serta untuk membuat dan mengatur tangkapan telur.)
+-Baris 30 36(digunakan untuk membuat tangkapan telur.)
+-Baris 38-40(untuk memberikan kesempatan ketika gagal sebanyak 3 kali, bisa lebih kalau di ganti.)
+-Baris 42-66(untuk memunculkan telur secara acak.)
+-Baris 68-71(untuk mengurangi kesempatan ketika gagal menangkap telur.)
+-Baris 73-81(untuk mengeluarkan penangkap telur.)
+-Baris 83-88(untuk menambahkan score ketika berhasil menangkap telur)
+-Baris 90-98(untuk menggerakan peenangkap telur ke kiri dan ke kanan)
